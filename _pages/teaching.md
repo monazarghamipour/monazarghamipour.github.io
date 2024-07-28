@@ -29,5 +29,7 @@ author_profile: true
 
 ## YouTube Educational Videos
    * [YouTube](https://www.youtube.com/@MonaZarghamipour)
-     * Developed and published educational videos on YouTube, focusing on technical skills such as, WRF, HPC, …
+     * Developed and published educational videos on YouTube, focusing on technical skills such as WRF, HPC, …
 
+## Mentoring Experience
+   * As an active member of [Prof. Malakooti](https://scholar.google.com/citations?user=FVVKDnkAAAAJ&hl=en)’s group, I have gained valuable experience mentoring graduate students. I guided them through the technical aspects of their research.
