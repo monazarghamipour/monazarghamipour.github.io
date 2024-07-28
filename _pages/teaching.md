@@ -7,11 +7,11 @@ author_profile: true
 
 ## University Lecturer
 * **University of Hormozgan**, Feb 2022 - Jun 2024<br/>
-   **Undergraduate course**
+  *  **Undergraduate course**
        * <ins>Lecture</ins>: Environmental Physics
        * <ins>Lecture</ins>: Fundamentals of Physics
        * <ins>Lecture</ins>: Physics Laboratory
-   **Graduate course**
+  * **Graduate course**
        * <ins>Lecture</ins>: Synoptic Meteorology
        * <ins>Lecture</ins>: MATLAB Programming
 
@@ -24,9 +24,10 @@ author_profile: true
 
 ## University Lecturer
    * **Rodan Azad University**, Feb 2023- Jun 2023
-       * <ins>Lecture</ins>: Fundamentals of Physics
+     *  **Undergraduate course**
+          * <ins>Lecture</ins>: Fundamentals of Physics
 
 ## YouTube Educational Videos
    * [YouTube](https://www.youtube.com/@MonaZarghamipour)
-   * Developed and published educational videos on YouTube, focusing on technical skills such as, WRF, HPC, …
+     * Developed and published educational videos on YouTube, focusing on technical skills such as, WRF, HPC, …
 
