@@ -20,14 +20,14 @@ Education
   * Utilized Earth System Models from CMIP6 and Observation-based data to Explore the exchange of CO2 over West Asia.
   * Investigated the impact of atmospheric and marine conditions on pollutant exchange.
   * Published four peer-reviewed articles
-  * See [Research tab](https://monazarghamipour.github.io/research/) for more details.
+  * Please see [Research tab](https://monazarghamipour.github.io/research/) for more details.
     
 * **M.S. in Meteorology**, University of HORMOZGAN, Iran, 2019
   * GPA: 18.60 out of 20.00
   * Analyzed low-level wind fields over Qeshm Island to understand regional wind patterns.
   * Evaluated the potential for renewable energy, specifically wind energy, in the region.
   * Published one peer-reviewed article
-  * See [Research tab](https://monazarghamipour.github.io/research/) for more details.
+  * Please see [Research tab](https://monazarghamipour.github.io/research/) for more details.
 * **B.S. in Physics**, University of HORMOZGAN, Iran, 2015
 
 Work & Teaching Experience
@@ -78,10 +78,10 @@ Skills
 
 Publications
 ======
-  See [Publications tab](https://monazarghamipour.github.io/publications/)
+  Please see [Publications tab](https://monazarghamipour.github.io/publications/)
   
 Talks
 ======
-  See [Talks tab](https://monazarghamipour.github.io/talks/)
+  Please see [Talks tab](https://monazarghamipour.github.io/talks/)
   
 
