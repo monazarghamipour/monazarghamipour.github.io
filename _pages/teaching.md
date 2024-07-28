@@ -1,31 +1,24 @@
 ---
 layout: archive
-title: "Teaching, Mentoring & Leadership"
+title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 ---
-##University Lecturer
 
-###University of Hormozgan, Feb 2022 - Jun 2024
-
-####Undergraduate course
-
- * <ins>Lecture</ins>: **Environmental Physics**
-
- * <ins>Lecture</ins>: **Fundamentals of Physics**
-
- * <ins>Lecture</ins>: **Physics Laboratory**
-
- * <ins>Lecture</ins>: **MATLAB Programming**
-
+## University Lecturer
+### University of Hormozgan, Feb 2022 - Jun 2024
 #### Undergraduate course
-* <ins>Lecture</ins>: **Synoptic Meteorology**
+ * <ins>Lecture</ins>: **Environmental Physics**
+ * <ins>Lecture</ins>: **Fundamentals of Physics**
+ * <ins>Lecture</ins>: **Physics Laboratory**
+#### graduate course
+ * <ins>Lecture</ins>: **Synoptic Meteorology**
  * <ins>Lecture</ins>: **MATLAB Programming**
 
 ## Workshop Lecturer
 ### University of Hormozgan, May 2022, 2023 & July 2024
- * <ins>Lecture</ins>: **Weather Research and Forecasting Model**
- * <ins>Lecture</ins>: **Synoptic Meteorology**
+ * Weather Research and Forecasting Model*
+ * Synoptic Meteorology*
  * <ins>Lecture</ins>: **Fundamentals of Physics**
  * <ins>Lecture</ins>: **Physics Laboratory**
  * <ins>Lecture</ins>: **MATLAB Programming**
