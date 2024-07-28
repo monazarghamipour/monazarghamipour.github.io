@@ -32,7 +32,7 @@ Education
 
 Work & Teaching Experience
 ======
-  **University Lecturer**, University of Hormozgan, Feb 2022 - Jun 2024<br/>
+* **University Lecturer**, University of Hormozgan, Feb 2022 - Jun 2024<br/>
     *  **Undergraduate course**
          * <ins>Lecture</ins>: Environmental Physics
          * <ins>Lecture</ins>: Fundamentals of Physics
@@ -41,21 +41,21 @@ Work & Teaching Experience
         * <ins>Lecture</ins>: Synoptic Meteorology
         * <ins>Lecture</ins>: MATLAB Programming
 
-  **Workshop Lecturer**, University of Hormozgan, May 2022, 2023 & July 2024
+* **Workshop Lecturer**, University of Hormozgan, May 2022, 2023 & July 2024
     * Weather Research and Forecasting Model
     * Weather Research and Forecasting Model coupled with Chemistry
     * High-performance computing
     * LINUX 
 
-  **University Lecturer**, Rodan Azad University, Feb 2023- Jun 2023
+* **University Lecturer**, Rodan Azad University, Feb 2023- Jun 2023
     *  **Undergraduate course**
          * <ins>Lecture</ins>: Fundamentals of Physics
 
-  **YouTube Educational Videos**
+* **YouTube Educational Videos**
     * [YouTube](https://www.youtube.com/@MonaZarghamipour)
       * Developed and published educational videos on YouTube, focusing on technical skills such as WRF, HPC, …
 
-  **Mentoring Experience**
+* **Mentoring Experience**
     * As an active member of [Prof. Malakooti](https://scholar.google.com/citations?user=FVVKDnkAAAAJ&hl=en)’s group, I have gained valuable experience mentoring graduate students. I guided them through the technical aspects of their research.
   
 Skills
