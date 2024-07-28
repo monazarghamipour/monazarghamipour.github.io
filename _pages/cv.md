@@ -11,9 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Meteorology**, University of HORMOZGAN, Iran, 2024
+  * Supervisor: Prof. Hossein Malakooti
+  * GPA: 18.79 out of 20.00
+  * Dissertation grade: 19.90 out of 20
+  * Conducted an in-depth analysis of factors influencing NOx concentration during high pollution episodes in Tehran Metropolitan using the WRF-Chem model.
+  * Applied WRF-Chem model to study the wet/dry deposition of NO2 and SO2 in West Asia.
+  * Utilized Earth System Models from CMIP6 and Observation-based data to Explore the exchange of CO2 over West Asia.
+  * Investigated the impact of atmospheric and marine conditions on pollutant exchange.
+  * Published four peer-reviewed articles
+    
+* **M.S. in Meteorology**, University of HORMOZGAN, Iran, 2019
+  * GPA: 18.60 out of 20.00
+  * Analyzed low-level wind fields over Qeshm Island to understand regional wind patterns.
+  * Evaluated the potential for renewable energy, specifically wind energy, in the region.
+  * Published one peer-reviewed article
+
+* **B.S. in Physics**, University of HORMOZGAN, Iran, 2015
 
 Work experience
 ======
@@ -34,12 +48,21 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*	MATLAB	
+*	NCAR Command Language      
+*	Weather Research and Forecasting Model with Chemistry 
+*	The Community Multiscale Air Quality Modeling System
+*	ESM Climate Models	
+*	Machine Learning
+*	Python	
+*	ArcGIS
+*	CDO	
+*	High-Performance Computing
+*	Linux	
+*	NCO 
+*	GitHub	
+*	FORTRAN
+
 
 Publications
 ======
