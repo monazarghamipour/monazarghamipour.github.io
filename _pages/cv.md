@@ -75,6 +75,8 @@ Skills
 *	GitHub	
 *	FORTRAN
 
+Research Interests
+======
 
 Publications
 ======
