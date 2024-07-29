@@ -21,7 +21,7 @@ repository               : "monazarghamipour/monazarghamipour.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG173.png"
+  avatar           : ""
   name             : "Mona Zarghamipour"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Meteorology"
