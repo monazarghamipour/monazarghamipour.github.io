@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic personal website"
+title: "Academic website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,8 +10,6 @@ redirect_from:
 
 Hi :)
 
-Welcome to my academic website.
-
 About me
 ======
 I am a meteorologist, with extensive experience in atmospheric and climate sciences. I am dedicated to applying scientific research to develop impactful solutions for sustainable living. 
@@ -20,6 +18,6 @@ I graduated from the University of Hormozgan, Iran. My Ph.D. dissertation, under
 
 <img src="images/phdthesis.tif" width="1000" />
 
-I also received my Master’s degree in Meteorology in 2019. My Master’s thesis, titled "Study of low-level wind field over Qeshm Island using the WRF model" involved analyzing wind patterns to evaluate the potential for wind energy, in the region. These experiences have equipped me with a strong foundation in atmospheric modeling, data analysis, and research methodologies.
+I also received my Master’s degree in Meteorology in 2019. My Master’s thesis, titled "<i>Study of low-level wind field over Qeshm Island using the WRF model</i>" involved analyzing wind patterns to evaluate the potential for wind energy, in the region. These experiences have equipped me with a strong foundation in atmospheric modeling, data analysis, and research methodologies.
 
 
