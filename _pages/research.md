@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Academic Background"
 permalink: /research/
 author_profile: true
 ---
@@ -32,11 +32,12 @@ Tehran, the capital of Iran, experiences high levels of pollution, particularly 
 
 ## Master
 
-**Relevant Courses**: <i>Programming and Numerical Methods; Advanced Atmospheric Dynamics; Advanced Synoptic Meteorology ;Atmospheric Physics; Microphysical Meteorology; Numerical Modeling of Atmosphere and Ocean; Remote Sensing in Meteorology; Time Series and Spectral Analysis; Physical Oceanography; Atmospheric and Oceanic Modeling Laboratory</i>
+**Relevant Courses**: <i>Programming and Numerical Methods; Advanced Atmospheric Dynamics; Advanced Synoptic Meteorology; Atmospheric Physics; Microphysical Meteorology; Numerical Modeling of Atmosphere and Ocean; Remote Sensing in Meteorology; Time Series and Spectral Analysis; Physical Oceanography; Atmospheric and Oceanic Modeling Laboratory</i>
 
 **Master thesis overview**
 
-* **Thesis Title**: <b>Study of low-level wind field over Qeshm Island using the WRF model</b>
+* **Thesis Title**: <i>Study of low-level wind field over Qeshm Island using the WRF model</i>
 
-* **Thesis Abstract**
+* **Thesis Abstract**:
+
 Since the importance of wind patterns on various activities in islands as well as its effect on other meteorological parameters, long–term temporal and spatial variations of the wind field are studied. Then, the warmest month (July) and the coldest month (January) 2015, are selected for sensitivity conduction of low-level wind simulations of the Weather Research and Forecasting (WRF) model to the parameterization of the boundary layer (PBL), the surface layer (SL) and the land surface (LSM) over Qeshm Island. Since this work was focused on the simulation of near-surface and vertical wind profiles, the physical options related to the parameterizations of boundary layer processes (SL, PBL, and LSM) that have significant influence for this purpose are validated. Although more physical options are available in the model (for cumulus convection, short and long wave radiation, microphysics, etc.), it is not feasible or necessary to include all the model configuration options in the sensitivity analysis to obtain an efficient model configuration optimization. The model grid comprised four nested domains at horizontal resolutions of 45, 15, 5, and 1 km respectively. The innermost domain (D4) with 1 km spatial resolution covered the chosen area to simulate the PBL wind field over the Qeshm island region. The results of the simulations under five different configurations are validated with the observational wind speed of Qeshm Airport and Marine Qeshm Stations. The results demonstrate that in both episodes, the ACM2 boundary layer scheme has presented the best performance in combination with the Pleim - Xio surface layer and the Noah land surface because it considers vertical mixing both local and non-local in the simulation of planetary boundary layer wind structure. The simulations of WRF are sensitive to warm and cold seasons as well as selected parameterizations. After selecting the appropriate configuration, the simulation of the wind field for one year was carried out to investigate the low-level wind field, the vertical structure of the boundary layer wind, and the impact of the land mask distribution on and around Qeshm Island. These simulations indicate higher wind speed in spring and summer and the roughness of the island causes a low-level wind convergence, then turn to the left on the Strait of Hormuz and decreasing wind speed. The monthly average of the wind direction during the daytime of the reference month of each season is generally simulated southwest (January, April, July, October), and during the nights of January and July is south to southeast and in April and October is simulated southwesterly. The direction of the wind has significant variations at sunrise and sunset due to changes in regional scale forcing and baroclinicity behavior between the sea and the coast. Surface roughness in coastal areas, strait narrowing, and sea breeze enhance the low-level jet during summer and spring middays at altitudes of about 180 to 200 meters. In other words, we can say these low-level jet (Shamal winds) during summer and spring occur as a result of the interaction of two low-pressure systems; the heat low-pressure cell (low-level cyclone) over Iran and a semi-permanent high over northwestern Saudi Arabia and it gets some convergence because of the above reasons. A weighted overlay analysis in ArcGIS 10.2 was used to produce a map of the suitable areas for wind farms using land use data, power grid lines, road networks, and slopes.
