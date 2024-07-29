@@ -20,4 +20,10 @@ I graduated from the University of Hormozgan, Iran. My Ph.D. dissertation, under
 
 I also received my Master’s degree in Meteorology in 2019. My Master’s thesis, titled "<i>Study of low-level wind field over Qeshm Island using the WRF model</i>" involved analyzing wind patterns to evaluate the potential for wind energy, in the region. These experiences have equipped me with a strong foundation in atmospheric modeling, data analysis, and research methodologies. Please see [Research tab](https://monazarghamipour.github.io/research/) for more details about my research background.
 
+I aim to pursue the following goals with a dedicated focus on **enhancing our society's resilience and adaptability in the face of a changing climate**:
 
+1. **Studying Air Pollution and Climate Change:** Utilizing a combination of observational data and numerical models to enhance our understanding of air pollution and climate change.
+
+2. **Applying Machine Learning in Meteorology:** Although I have not yet had the opportunity to work extensively with machine learning in meteorology, I have pursued courses to build a foundational understanding of this exciting field. I am particularly interested in how machine learning can enhance numerical weather prediction, and to apply in meteorological studies.
+
+3. **Studying Tropical Cyclones:** Conducting in-depth research on tropical cyclones to better predict and mitigate their impacts on affected regions.
