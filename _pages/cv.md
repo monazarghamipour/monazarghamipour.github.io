@@ -77,6 +77,15 @@ Skills
 
 Research Interests
 ======
+*	Air Quality	
+*	Renewable energy
+*	Climate Change	
+*	Synoptic Meteorology
+*	Boundary Layer Meteorology	
+*	Aerosol/Cloud Interactions
+*	Wind	
+*	Wet/Dry Deposition
+*	Tropical Cyclones
 
 Publications
 ======
