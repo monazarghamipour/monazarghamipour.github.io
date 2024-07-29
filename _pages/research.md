@@ -9,7 +9,7 @@ author_profile: true
 
 **Relevant Courses**: <i>Air Pollution; Boundary-Layer Meteorology; Physical Climatology; Atmospheric Radiation; General Atmospheric Circulation; Climate Change</i>
 
-**PhD Dissertation Overview**
+**Ph.D. Research Overview**
 
 Socio-economic growth and increasing global energy demand have promoted the exploitation and use of fossil fuels in many West Asian countries, leading to increased emissions of short-lived (NO2 and SO2) and long-lived (CO2) pollutants. The emission of these pollutants is a major concern for air quality, climate change, and human and environmental health. Natural ecosystems play an important role in absorbing atmospheric pollutants. In my Ph.D. research, I tried to investigate the potential of natural ecosystems in the region in carbon, nitrogen, and sulfur storage.
 
