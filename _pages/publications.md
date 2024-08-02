@@ -17,4 +17,4 @@ author_profile: true
 
 Malakooti, H., Hamzenejad, M., & <b>Zarghamipour, M.</b> (2023). Long-term observational and numerical study of low level wind field in the Strait of Hormuz. Journal of Oceanography, 14(53), 38-56. [Link](http://joc.inio.ac.ir/browse.php?a_code=A-10-245-1&sid=1&slc_lang=en&ppup=1)
 
-<b>Zarghamipour, M.</b>, & Malakooti, H. (2020). Study of planetary boundary layer wind field over Qeshm Island, Iran. Journal of the Earth and Space Physics, 46(1), 129-147. [Link](10.22059/jesphys.2020.286563.1007146)
+<b>Zarghamipour, M.</b>, & Malakooti, H. (2020). Study of planetary boundary layer wind field over Qeshm Island, Iran. Journal of the Earth and Space Physics, 46(1), 129-147. [Link](https://jesphys.ut.ac.ir/article_74735.html?lang=en)
