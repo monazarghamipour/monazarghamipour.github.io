@@ -24,6 +24,6 @@ I aim to pursue the following goals with a dedicated focus on "<i>enhancing our 
 
 1. **Studying Air Pollution and Climate Change:** Utilizing a combination of observational data and numerical models to enhance our understanding of air pollution and climate change.
 
-2. **Applying Machine Learning in Meteorology:** Although I have not yet had the opportunity to work extensively with machine learning in meteorology, I have pursued courses to build a foundational understanding of this exciting field. I like to apply machine learning in meteorological studies. I am particularly interested in how machine learning can enhance numerical weather prediction.
+2. **Applying Machine Learning in Meteorology:** I have pursued courses to build a foundational understanding of this exciting field. I would like to apply machine learning to meteorological studies. I am particularly interested in how machine learning can enhance numerical weather prediction.
 
-3. **Studying Tropical Cyclones:** Conducting in-depth research on tropical cyclones to better predict and mitigate their impacts on affected regions.
+3. **Studying Extreme Events:** Conducting in-depth research on extreme events to better predict and mitigate their impacts on affected regions.
