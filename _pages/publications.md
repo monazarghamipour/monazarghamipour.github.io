@@ -9,6 +9,8 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+<b>Zarghamipour, M.</b>, & Malakooti, H. (2025). The projected effects of urbanization and climate change on urban Heat Island and thermal comfort over the Tehran metropolitan. Science of the Total Environment, 992, 179955. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0048969725015955)
+
 <b>Zarghamipour, M.</b>, Malakooti, H., & Bordbar, M. H. (2024). Spatio-temporal Analysis of the factors affecting NOx concentration during the evaluation cycle of high pollution episodes in Tehran metropolitan. Atmospheric Pollution Research, 15(8), 102177. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1309104224001429)
 
 <b>Zarghamipour, M.</b>, Malakooti, H., & Bordbar, M. H. (2024). Air–Sea CO2 Exchange Over the Mediterranean Sea, the Red Sea and the Arabian Sea. International Journal of Environmental Research, 18(3), 36. [Link](https://link.springer.com/article/10.1007/s41742-024-00586-6)
