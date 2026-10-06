@@ -32,8 +32,9 @@ Education
 
 Work & Teaching Experience
 ======
-* ** Postdoctoral researcher**, University Grenoble Alpes, Oct 2025 - Mar 2027
-  **Adaptation strategies to heat waves during the 21st century: impact on air quality** 
+* ** Postdoctoral researcher**, University Grenoble Alpes, France Oct 2025 - Mar 2027
+  
+ * **Adaptation strategies to heat waves during the 21st century: impact on air quality** 
     * Supervisor: [Prof. Chantal Staquet](https://scholar.google.com/citations?user=uJFMTc8AAAAJ&hl=fr)
     * Developing high-resolution simulations using the WRF-Chem model to investigate urban heatwaves and climate adaptation strategies in Grenoble
     * Quantifying the impacts of adaptation measures on near-surface air temperature, thermal comfort, urban heat island, and air quality
