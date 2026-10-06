@@ -32,6 +32,12 @@ Education
 
 Work & Teaching Experience
 ======
+* ** Postdoctoral researcher**, University Grenoble Alpes, Oct 2025 - Mar 2027
+  **Adaptation strategies to heat waves during the 21st century: impact on air quality** 
+    * Developing high-resolution simulations using the WRF-Chem model to investigate urban heatwaves and climate adaptation strategies in Grenoble
+    * Quantifying the impacts of adaptation measures on near surface air temperature, thermal comfort, urban heat island and air quality
+    * Conducting future climate simulations to assess the effectiveness of urban adaptation strategies under more intense and frequent heatwave conditions
+
 * **University Lecturer**, University of Hormozgan, Feb 2022 - Jun 2024<br/>
     *  **Undergraduate course**
          * <ins>Lecture</ins>: Environmental Physics
